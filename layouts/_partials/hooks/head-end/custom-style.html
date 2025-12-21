@@ -1,0 +1,31 @@
+<style>
+  /* Force global background color */
+  html, body, .page-wrapper, section, header, footer, nav, .navbar {
+    background-color: #8B0012 !important;
+    background-image: none !important;
+    color: #FFFFFF;
+  }
+
+  /* Remove any Tailwind gradients */
+  [class*="bg-gradient-"] {
+    background-image: none !important;
+    background-color: #8B0012 !important;
+  }
+
+  /* Ensure text is readable on dark background */
+  h1, h2, h3, h4, h5, h6, p, span, li, dt, dd, div {
+    color: #FFFFFF !important;
+  }
+
+  /* Adjust link colors for visibility */
+  a, a:hover, a:focus {
+    color: #FFFFFF !important;
+    text-decoration: underline;
+  }
+  
+  /* Override card backgrounds if they exist */
+  .card, .article-container {
+    background-color: #8B0012 !important;
+    color: #FFFFFF !important;
+  }
+</style>

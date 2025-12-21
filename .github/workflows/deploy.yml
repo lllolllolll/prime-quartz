@@ -80,6 +80,8 @@ jobs:
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
+      with:
+        enable: true
 
     - name: Build with Hugo
       env:

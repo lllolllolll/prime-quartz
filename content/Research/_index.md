@@ -1,13 +1,13 @@
 ﻿---
 title: "Research"
 date: 2021-03-16T00:00:00+00:00
-draft: True
+draft: true
 ---
-<center># Research</center>
+<!-- **<center>Research</center>** -->
 
 <font color="black">
 
-![Research Image 1](/Research/20190814105941646278.jpg)
+<!-- ![Research Image 1](/Research/20190814105941646278.jpg) -->
 
 &nbsp;&nbsp;Organic chemistry is one of the cornerstones of today’s science and technology. The Yu group at Peking University is devoted to use both computational chemistry and organic synthesis to advance organic chemistry in the following four areas: 1, Developing theories and understanding reaction mechanisms; 2. Developing new reactions and catalysts; 3, Synthesizing natural products and pharmaceutical molecules; 4, Developing new drugs and studying chemical biology. The students in the Yu group will be trained in both computational chemistry and synthetic organic chemistry, together with some biochemistry techniques from our collaborators.
 

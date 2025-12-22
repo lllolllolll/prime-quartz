@@ -36,8 +36,9 @@ sections:
     content:
       title: '📚Our Research'
       subtitle: ''
-      text: |-
-       2 😃
+      folders:
+        - Research
+      featured_only: true
     design:
       columns: '1'
   - block: collection

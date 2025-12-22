@@ -1,7 +1,7 @@
 ﻿---
 title: "Research"
 date: 2021-03-16T00:00:00+00:00
-draft: true
+draft: false
 ---
 <!-- **<center>Research</center>** -->
 

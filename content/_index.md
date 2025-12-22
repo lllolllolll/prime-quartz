@@ -36,9 +36,9 @@ sections:
     content:
       title: '📚Our Research'
       subtitle: ''
-      folders:
-        - Research
-      featured_only: true
+      text: |
+        Organic chemistry is one of the cornerstones of today’s science and technology. The Yu group at Peking University is devoted to use both computational chemistry and organic synthesis to advance organic chemistry in four key areas.
+        Learn more about our research areas at [Research](/research/)
     design:
       columns: '1'
   - block: collection

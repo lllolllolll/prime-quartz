@@ -15,11 +15,11 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download pdf
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download pdf
+      #   url: uploads/resume.pdf
       headings:
-        about: ''
+        about: Summary
         education: 'CV'
         interests: 'Honors & Awards & Recognitions'
     design:
@@ -48,7 +48,7 @@ sections:
       filters:
         folders:
           - publications
-        featured_only: true
+      # Remove featured_only filter to show all publications
     design:
       view: article-grid
       columns: 2

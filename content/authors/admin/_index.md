@@ -64,8 +64,8 @@ interests:
   - Research Excellence Award, Department of Chemistry & Biochemistry, University of California, Los Angeles, 2004
 
 education:
-  - area: 学士(化学系)
-    institution: 武汉大学
+  - area: Bachelor's (Department of Chemistry)
+    institution: Wuhan University
     icon: ""
     date_start: 1987
     date_end: 1991
@@ -73,32 +73,32 @@ education:
     button:
       text: ''
       url: ''
-  - area: 硕士(合成有机化学)
-    institution: 北京大学
+  - area: Master's (Synthetic Organic Chemistry)
+    institution: Peking University
     icon: ""
     date_start: 1994
     date_end: 1997
     summary: ""
-  - area: 博士(计算有机化学)
-    institution: 香港科技大学
+  - area: PhD (Computational Organic Chemistry)
+    institution: Hong Kong University of Science and Technology
     icon: ""
     date_start: 1997
     date_end: 2001
     summary: ""
-  - area: 博士后
-    institution: 加州大学洛杉矶分校
+  - area: Postdoctoral Fellow
+    institution: University of California, Los Angeles
     icon: ""
     date_start: 2001
     date_end: 2004
     summary: ""
-  - area: 副教授
-    institution: 北京大学化学学院
+  - area: Associate Professor
+    institution: College of Chemistry, Peking University
     icon: ""
     date_start: 2004
     date_end: 2008
     summary: ""
-  - area: 教授
-    institution: 北京大学化学学院
+  - area: Professor
+    institution: College of Chemistry, Peking University
     icon: ""
     date_start: 2008
     # Ongoing position - leave date_end empty
@@ -175,5 +175,10 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-我们的研究团队在有机化学中进行机理和合成研究，重点是深入理解机理学。我们主要专注于基于反应中间体化学的新反应和催化剂设计。
-我们欢迎对有机化学充满热情和热情的研究生和本科生加入我们的团队。
+Organic chemistry is one of the cornerstones of today’s science and technology. The Yu group at Peking University is devoted to use both computational chemistry and organic synthesis to advance organic chemistry in the following four areas:
+  1. Developing theories and understanding reaction mechanisms
+  2. Developing new reactions and catalysts
+  3. Synthesizing natural products and pharmaceutical molecules
+  4. Developing new drugs and studying chemical biology
+  
+The students in the Yu group will be trained in both computational chemistry and synthetic organic chemistry, together with some biochemistry techniques from our collaborators.

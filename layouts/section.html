@@ -49,7 +49,7 @@
                   <span class="text-4xl">{{ $icon_config.emoji }}</span>
                 {{ else if $icon_config.name }}
                   <span class="w-10 h-10">
-                    {{ partial "components/icon.html" (dict "name" $icon_config.name "attributes" "class=\"w-full h-full\"") }}
+                    {{ partial "components/icon.html" (dict "name" $icon_config.name "attributes" "class='w-full h-full'") }}
                   </span>
                 {{ end }}
                 <span>{{- .Title -}}</span>

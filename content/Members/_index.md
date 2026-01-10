@@ -1,4 +1,4 @@
-﻿---
+---
 title: My Page
 type: landing
 
@@ -9,48 +9,63 @@ sections:
       subtitle: "Meet the members of our team"
       text: "We are a group of dedicated professionals working together to achieve great things"
       items:
-        - name: "Zhixiang Yu"
-          description: ""
-          icon: small.jpg
+        - name: "Xiangzhi Yu"
+          description: "Professor"
+          icon: https://lllolllolll.github.io/prime-quartz/authors/admin/avatar.png
+        - name: "Haiyong Yu"
+          description: "Postdoctoral Researcher"
+          icon: Postdoc-于海勇.jpg
         - name: "Jiguo Ma"
-          description: ""
-          icon: 20250612193147230285.jpg
-        - name: "Ming Xu"
-          description: ""
-          icon: 20250618203340107264.jpg
-        - name: "Yi Zhou"
-          description: ""
-          icon: 20221010104513933334.jpg
-        - name: "Wencan Wang"
-          description: ""
-          icon: 20221014160350705611.jpg
+          description: "Postdoctoral Researcher"
+          icon: Postdoc-马继国.jpg
         - name: "Bingwen Li"
-          description: ""
-          icon: 20221014203930479924.png
+          description: "PhD"
+          icon: PhD-李冰文.jpg
+        - name: "Xinxuan Li"
+          description: "PhD"
+          icon: PhD-李鑫璇.jpg
+        - name: "Ke Yang"
+          description: "PhD"
+          icon: PhD-杨科.jpg
+        - name: "Yuanyang Jing"
+          description: "Undergraduate"
+          icon: Undergraduate-景远扬.jpg
+        - name: "Qiaorui Lang"
+          description: "Undergraduate"
+          icon: Undergraduate-郎乔睿.jpg
+        - name: "Kang Wang"
+          description: "Undergraduate"
+          icon: Undergraduate-王康.jpg
+        - name: "Hantao Ke"
+          description: "PhD"
+          icon: PhD-柯涵韬.jpg
+        - name: "Wencan Wang"
+          description: "PhD"
+          icon: PhD-王文灿.jpg
+        - name: "Chengzhixiao Cheng"
+          description: "PhD"
+          icon: PhD-程郅骁.jpg
         - name: "Zhiqiang Huang"
-          description: ""
-          icon: 20221014113731485384.jpg
+          description: "PhD"
+          icon: PhD-黄智强.jpg
+        - name: "Yi Jin"
+          description: "PhD"
+          icon: PhD-金奕.jpg
         - name: "Zeyuan Shen"
-          description: ""
-          icon: 20221015091926132116.jpg
-        - name: "Qianwei Zhang"
-          description: ""
-          icon: 20250612190541226170.jpg
-        - name: "Sixuan Zhao"
-          description: ""
-          icon: 20250612233335756574.jpg
+          description: "PhD"
+          icon: PhD-沈泽源.jpg
         - name: "Tianze Zheng"
-          description: ""
-          icon: 20250612233314637456.jpg
+          description: "PhD"
+          icon: PhD-郑天泽.jpg
         - name: "Yunhao Zhang"
-          description: ""
-          icon: 20250612233252777322.jpg
+          description: "PhD"
+          icon: PhD-张云皓.jpg
         - name: "Ziyou Zhang"
-          description: ""
-          icon: 20250613003654752974.jpg
-        - name: "Weiming Shi"
-          description: ""
-          icon: 20221014205520624380.jpg
+          description: "PhD"
+          icon: PhD-张子游.jpg
+        - name: "Qianwei Zhang"
+          description: "PhD"
+          icon: PhD-张谦玮.jpg
     design:
       columns: "6"
       background:

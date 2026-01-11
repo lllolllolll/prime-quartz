@@ -11,7 +11,7 @@ sections:
       items:
         - name: "Xiangzhi Yu"
           description: "Professor"
-          icon: https://lllolllolll.github.io/prime-quartz/authors/admin/avatar.png
+          icon: ../avatar.png
         - name: "Haiyong Yu"
           description: "Postdoctoral Researcher"
           icon: Postdoc-于海勇.jpg

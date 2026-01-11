@@ -61,7 +61,7 @@ The students in the Yu group will be trained in both computational chemistry and
 
 We are interested in studying mechanisms of new and important reactions. These studies will help chemists understand how these reactions take place. On the other hand, our in-depth understandings of the reaction mechanisms may help chemists optimize the reaction conditions of these investigated reactions and related ones, and provide guidance for chemists in their design of new reactions and catalysts. In mechanistic studies, we are using computational chemistry and/or experimental techniques to explore the potential energy surface of every studied reaction as well as to see the 3D structures of reactants, intermediates, products, and transition states.
 
-![Research Image 2](/Research/20190828141637752910.png)
+![Research Image 2](https://lllolllolll.github.io/prime-quartz/research/20190828141637752910.png)
 
 ## 2. Developing new reactions and catalysts
 
